@@ -1,6 +1,4 @@
-# Databases 2:
-
-#### The SeQueL
+# SQL Practice:
 
 - SQL is a standard language for storing, manipulating and querying data in relational databases.
 - Relational databases store data in tables.
@@ -14,7 +12,7 @@
 
 - These notes go through the basic statements
 - Like everything else, don't worry about memorising them,
-  just [a reference like w3 schools](https://www.w3schools.com/mysql/)
+  just use [a reference like w3 schools](https://www.w3schools.com/mysql/)
 - Note that the syntax (or dialect) is slightly different for each DBMS
 - We are using MySQL, so we are using the MySQL dialect
 
